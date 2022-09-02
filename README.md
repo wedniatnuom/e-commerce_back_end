@@ -30,3 +30,5 @@ N/A
 ## Features
 
 Screencastify of Insomnia: https://drive.google.com/file/d/1EXvi0o4WaCroBwWCTv83gaZMxqNEKbds/view?usp=sharing
+
+Screencastify of initial setup: https://drive.google.com/file/d/1b3278W5v9VEqt5vAauThtwK4zqTze7xF/view?usp=sharing
